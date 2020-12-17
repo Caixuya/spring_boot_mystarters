@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\com.thxy.spring_boot_mystarters.MyAutoConfiguration
